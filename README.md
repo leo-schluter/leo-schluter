@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leo-schluter
 - 👀 I’m interested in opensource
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on openplotter or analog
+- 💞️ I’m looking to collaborate on openplotter
 - 📫 How to reach me ...
 
 <!---
